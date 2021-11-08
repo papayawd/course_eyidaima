@@ -14,9 +14,9 @@ test.cpp导入空项目 其中读写文件路径修改以下  写文件需要保
 
  编译 运行 效果如下
 
-![image.png](https://i.loli.net/2021/11/03/vXlkmfYWqasg7EZ.png)
+![image.png](./picture/vXlkmfYWqasg7EZ.png)
 
-![image.png](https://i.loli.net/2021/11/03/9S63WqLfEmOUrCM.png)
+![image.png](./picture/9S63WqLfEmOUrCM.png)
 
 
 
