@@ -2,13 +2,13 @@
 
 ​	Process Explorer监视程序 有一瞬间能看到拉起了一个叫做svchost的进程  svchost这是系统进程 在`Windows\\system32`目录下
 
-![](https://cdn.luogu.com.cn/upload/image_hosting/ud6czup4.png)
+![](https://github.com/papayawd/course_eyidaima/blob/master/homework2/picture/7VeIYKoyTsmZjFa.png)
 
 这个东西还是有点意思的
 
 首先静态IDA看看 简单分析一下
 
-![image.png](https://i.loli.net/2021/11/03/eGwupDQz9NaxUZo.png)
+![](./picture/q.jpg)
 
 进4010EA看看
 
