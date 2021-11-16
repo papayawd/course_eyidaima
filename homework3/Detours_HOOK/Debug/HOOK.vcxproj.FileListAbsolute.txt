@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\course_eyidaima\homework3\HOOK\Debug\HOOK.exe
+C:\Users\Administrator\Desktop\course_eyidaima\homework3\Detours_HOOK\Debug\Detours_HOOK.exe
